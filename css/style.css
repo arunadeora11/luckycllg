@@ -1,0 +1,225 @@
+
+
+.outer
+{
+    width:1200px;
+    height:800px;
+   background-color:#ddd;
+   margin: 0 auto;
+    
+}
+.header
+{
+    width: 1200px;
+    height: 150px;
+    background-color: rgb(63, 63, 136);
+
+}
+.hleft
+{
+    width: 120px;
+    height: 110px;
+    background-color: white;
+    margin: 25px 0 0 50px;
+    float: left;
+    border-radius: 50%;
+}
+.hleft:hover
+{
+    margin: 25px 0 0 100px;
+    transition: 2s;
+}
+.hright
+{
+    width: 600px;
+    height: 120px;
+    background-color:white;
+    float: right;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 20px;
+    margin:10px ;
+
+}
+.hright:hover
+{
+   margin: 0px 10px 10px 5px;
+    background-color: #ff0;
+    transition: 2s;
+}
+.menubar
+{
+    height:50px;
+    width: 1200px;
+    background-color:white;
+    
+}
+.menus
+{
+    width: 150px;
+    height:40px;
+    float: left;
+    background-color:#009;
+    text-align: center;
+    font-size: 18px;
+    box-sizing: border-box;
+    padding-top:10px;
+    color: #fff;
+    margin: 5px 0 5px 40px;
+    border-radius: 10px;
+    transition: 2s;
+}
+.menus:hover
+{
+    background-color: rgb(90, 95, 91);
+    color: red;
+   
+    transition: 2s;
+}
+.slider
+{
+    width: 1200px;
+    height: 400px;
+    background-color:#009;
+}
+.mleft
+{
+    width: 250px;
+    height: 450px;
+    background-color: #fff;
+    float: left;
+    border-radius: 10px;
+
+}
+.lmenus
+{
+    width: 150px;
+    height: 40px;
+    background-color: #009;
+    color: #fff;
+    margin: 20px 0 0 50px;
+    padding-top:10px;
+    box-sizing: border-box;
+    text-align: center;
+    transition: 2s;
+    border-radius: 10px;
+}
+red
+{
+    color: red;
+}
+.lmenus:hover
+{
+    background-color: rgb(90, 95, 91);
+    margin:20px 0 0 90px;
+    
+    color: red;
+    transition: 2s;
+}
+.mright
+{
+    width: 949px;
+    min-height: 450px;
+    background-color:#fff;
+    float: right;
+    text-align: justify;
+    border-left:1px dotted red;
+    padding: 30px 15px;
+    box-sizing:border-box;
+
+}
+.footer
+{
+    height:100px;
+    width: 1200px;
+    background-color: #009;
+    clear: both;
+
+}
+.fmenus
+{
+    
+    height: 50px;
+    float: left;
+    font-size: 22px;
+    margin:10px;
+    color: white;
+    padding:0 10px;
+    border-right:1px solid white;
+   
+}
+.m1{
+    margin-left: 500px;
+}
+
+
+.gimage
+{
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin: 10px 20px;
+}
+.gimage:hover
+{
+    opacity: 0.8;
+    transform:scale(1.5,1.5);
+    transition: 2s;
+}
+.curow
+{
+    width: 700px;
+    height: 40px;
+    margin: 40px;
+    background-color: black;
+}
+.culeft
+{
+    width:200px;
+    height:40px;
+    float:left;
+    text-align: center;
+    background-color: #ccc;
+       
+}
+.curight
+{
+    width:498px;
+    height:40px;
+    border-left: 1px solid black;
+    text-align: center;
+    float: right;
+    background-color: rgb(199, 207, 215);
+}   
+.pn{
+    padding: 0px;
+}
+.input{
+    width: 500px;
+    height:40px;
+    font-size: 22px;
+}
+.ht100{
+    
+    height:40px;
+}
+.tarea{
+width: 500px;
+height: 50px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+
+    margin: 0px 10px ;
+    background-color:rgb(97, 97, 187);
+    color: rgb(12, 12, 13);
+}
+
+    
+
+
+
+
+
+
